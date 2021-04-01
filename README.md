@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=RomuCampu&row=2&column=3theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RomuCampu&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 <!--
 **RomuCampu/RomuCampu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
