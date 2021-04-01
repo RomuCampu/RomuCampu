@@ -16,8 +16,6 @@
    📫 You can reach me by sending an email to romucampu@gmail.com
 </p>
 <!--
-**RomuCampu/RomuCampu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
