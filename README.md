@@ -1,6 +1,11 @@
 ### Hi there 👋 Welcome to my profile
 
 <p align="center">
+  
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=RomuCampu&theme=onedark&row=2&column=3&margin-w=4&theme=onedark"/>
+  </a>  
 [![trophy](https://github-profile-trophy.vercel.app/?username=RomuCampu&theme=onedark&row=2&column=3
 )](https://github.com/ryo-ma/github-profile-trophy)
 </p>
