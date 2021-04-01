@@ -12,7 +12,7 @@
   </a>  
 </p>
 
-<p align="center>       
+<p align="center">       
   <a href="https://github.com/anuraghazra/github-readme-stats#readme">
     <img width="41.5%" src="https://github-readme-stats.vercel.app/api?username=RomuCampu&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=dark"/>
   </a> 
