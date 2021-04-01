@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my profile
 
+<p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=RomuCampu&theme=onedark&row=2&column=3
 )](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 <!--
 **RomuCampu/RomuCampu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
