@@ -1,6 +1,6 @@
-<p align="center">
-  ### Hi there 👋 Welcome to my profile
-</p>
+<h3 align="center">
+   Hi there 👋 Welcome to my profile
+</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
