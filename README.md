@@ -4,10 +4,8 @@
   
   
   <a href="https://github.com/ryo-ma/github-profile-trophy#readme">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=RomuCampu&theme=onedark&row=2&column=3&margin-w=4&theme=onedark"/>
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=RomuCampu&theme=onedark&row=2&column=3&theme=onedark"/>
   </a>  
-[![trophy](https://github-profile-trophy.vercel.app/?username=RomuCampu&theme=onedark&row=2&column=3
-)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 <!--
 **RomuCampu/RomuCampu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
