@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align="center">
-   🌱 I’m currently learning <s>FullStack Web Development</s> and looking to collaborate on some open source projects
+   🌱 I’m currently learning <s>FullStack Web Development</s> Rust and looking to collaborate on some open source projects
 </h4>
 
 <p align="center">
